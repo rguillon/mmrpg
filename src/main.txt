@@ -11,7 +11,7 @@ Les caractéritiques:
 
 	Il y a quatre caractéristiques : la constitutuon, la dexterité, l'inteligence et le charisme. Chaque personage dispose d'un certain nombre de point dans chacune qui vont representer ou se situent ses capacitées.
 
-	CONST: La constitution est la force physique du personage, sa capacité a soulever des charges ou a fraper.
+	CONS: La constitution est la force physique du personage, sa capacité a soulever des charges ou a fraper.
 	DEXT: La dexterité represente l'adresse et l'agilité.
 	INTE: L'inteligence est la capacité a comprendre, résoudre des problemes et apprendre.
 	CHAR: Le charisme est la TODO
@@ -33,7 +33,7 @@ Les équipements:
 
 	Les points d'équipement representent l'argent, le MJ indique le taux de change entre un point et la monais utilisée.
 
-	ex: avec une agilité a 4, une compétence escalade à 3 et une corde et baudrier à AGL+4, le personnage dispose desormais de 11 dés.
+	ex: avec une agilité a 4, une compétence escalade à 3 et une corde et baudrier à DEXT+4, le personnage dispose desormais de 11 dés.
 
 	Un équipement peut disposer d'un bonus a effet permanent, qui va directement modifier l'une des caractéristiques tant que le personnage le pocede. Ces bonus permaments peuvent etre des malus. 
 
@@ -46,17 +46,22 @@ La résulution des ations:
 		Un 5 rapporte 1 succes
 		Un 6 rapporte 2 succes
 	
+	Chaque dé a donc une esperance d'un demi succes.
+	
 	Le nombre de dés a lancé est determiné par: la caracteristique utilisée plus eventuelement une compétence et/ou un objet qui viendront augmenter le nombre de dés enfin chaque point de bléssure physique et psychoogique va soustraire un dé au lancé.
 	
 	Actions simples: le personnage effectue son jet, totalise ses succes et indique son score au MJ qui decide si l'action est réusie.
 	
-	ex: avec une agilité a 4, une compétence escalade à 3 et une corde et baudrier à AGL+4, le personnage dispose desormais de 11 dés. Le personage effectue son jet et n'obtient que 5 succes, trop peu au gout du MJ qui décide que le personnage chute et prends deux points de bléssure. S'il fait une seconde tentative, il n'aura plus que 9 dés.
+	ex: avec une agilité a 4, une compétence escalade à 3 et une corde et baudrier à DEXT+4, le personnage dispose desormais de 11 dés. Il effectue son jet et n'obtient que 3 succes, trop peu au gout du MJ qui décide que le personnage chute et prends deux points de bléssure. S'il fait une seconde tentative, il n'aura plus que 9 dés.
 
 	Action en oposition: les deux personnages effectuent leurs jets. Le plus haut score l'importe.
 
 	Combats: il s'agit d'une action en oppisition particuliere, il y a un attaquant et un defensseur a chaque jet. Si le score de l'attaquant dépasse celui du defensseur, ce dernier prends l'ecart des scores en points de dégats.
 
+	Un personnage bléssé lancera moins de dés, si la bléssure est suffisement grave, il est possible qu'il n'ai aucun dés a lancer pour son jet: il est trop amoché pour pouvoir faire quoi que ce soit. Si le nombre de points de dégats physique devient superieur ou égal au points de vie, le personnage meur. Si ses dégats psychologiques dépassent sa santé mentale, il devient fou et le MJ en prends le controle.
 
+
+ 
 
 	
 
