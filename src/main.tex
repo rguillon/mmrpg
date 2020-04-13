@@ -1,4 +1,4 @@
-\documentclass[a4paper,twocolumn,10pt]{article}
+\documentclass[a4paper]{article}
 
 \usepackage{geometry}
 \usepackage{tabularx}
@@ -34,13 +34,15 @@
 
 \begin{document}
 
-\maketitle{}
+\pagenumbering{gobble}
 
-\input{intro}
+\input{charrules}
 
-\include{charrules}
+\input{charsheet}
 
-\include{charsheet}
+\input{gm_help}
+
+\input{npc_sheet}
 
 \end{document}
 
