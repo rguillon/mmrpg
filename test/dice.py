@@ -37,6 +37,8 @@ class Dice():
             self.rolls[val] = self.rolls[val]/total
         return self
 
+    def get_rolls(self):
+        return self.rolls
 
 def D(face):
     rolls = {}
@@ -50,13 +52,16 @@ def De():
 
 def main():
     d = De()
-    for i in range(1,100):
-        x, y = zip(*d.rolls.items())
-        plt.plot(x, y)
-        plt.show()
-        print("%d Dices roll:"%(i))
-        print(d.normalize())
-        d = d + De()
+    for i in range(1,16):
+#        d.normalize()
+        print("=================================== %d Dices roll:"%(i)) 
+        print(d)
 
+ #       x, y = zip(*d.rolls.items())
+  #      plt.plot(x, y)
+   #     plt.show()
+
+
+        d = d + De()
 
 main()
