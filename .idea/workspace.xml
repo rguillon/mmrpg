@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:wip" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fbca398f-40ed-4438-9c35-3125290b8e52" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/charrules.tex" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang_fr/charrules.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/charsheet.tex" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang_fr/charsheet.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gm_help.tex" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang_fr/gm_help.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intro.tex" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang_fr/intro.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.tex" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang_fr/main.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/npc.tex" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang_fr/npc.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/npc_sheet.tex" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang_fr/npc_sheet.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tot.tex" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang_fr/tot.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weapons.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang_fr/weapons.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="wip/add_venv" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1akZQeEDfhfQATzywJrlr14JNrf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\renau\PycharmProjects\mmrpg\src\lang_fr" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbca398f-40ed-4438-9c35-3125290b8e52" name="Default Changelist" comment="" />
+      <created>1587281536550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587281536550</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="991" y="519" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587281601722">
+      <screen x="0" y="0" width="3072" height="1728" />
+    </state>
+    <state x="991" y="519" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3072.1728@0.0.3072.1728" timestamp="1587281601722" />
+    <state x="1316" y="619" key="FileChooserDialogImpl" timestamp="1587281648792">
+      <screen x="0" y="0" width="3072" height="1728" />
+    </state>
+    <state x="1316" y="619" key="FileChooserDialogImpl/0.0.3072.1728@0.0.3072.1728" timestamp="1587281648792" />
+  </component>
+</project>
